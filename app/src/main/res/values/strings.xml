@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="add_bookmarks">Add Bookmarks In List</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="pressure">Pressure</string>
+    <string name="sea_level">Sea Level</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="select_loation">Select Location</string>
+    <string name="how_to_use_app">How to use App</string>
+    <string name="help">Help</string>
+    <string name="help_data">""</string>
+</resources>
